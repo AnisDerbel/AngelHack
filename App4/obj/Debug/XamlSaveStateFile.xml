@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\anis derbel\documents\visual studio 2013\projects\app4\app4\obj\debug\intermediatexaml\app4.exe" HashGuid="a99759b0-92d7-61d4-a4f2-c7d9a7bb95d4" />
+    <ReferenceAssembly PathName="c:\users\anis derbel\desktop\desktop\dll\htmlagilitypack.dll" HashGuid="f2c9a4ce-31d6-6a71-5c53-58cd8e71df15" />
+    <ReferenceAssembly PathName="c:\users\anis derbel\documents\github\windows\angelhack\app4\bin\debug\microsoft.windowsazure.mobile.dll" HashGuid="9ae27956-fc25-6346-a044-affad933acd5" />
+    <ReferenceAssembly PathName="c:\users\anis derbel\documents\github\windows\angelhack\app4\bin\debug\microsoft.windowsazure.mobile.ext.dll" HashGuid="d14f6c57-ffca-9ad1-126f-ce93487ab524" />
+    <ReferenceAssembly PathName="c:\users\anis derbel\documents\github\windows\angelhack\app4\bin\debug\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="c:\users\anis derbel\documents\github\windows\angelhack\app4\bin\debug\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\anis derbel\documents\github\windows\angelhack\app4\bin\debug\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

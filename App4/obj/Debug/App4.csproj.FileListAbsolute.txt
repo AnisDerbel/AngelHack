@@ -1,0 +1,81 @@
+C:\WP8\App1\App4\App4\bin\Debug\App.xbf
+C:\WP8\App1\App4\App4\bin\Debug\MainPage.xbf
+C:\WP8\App1\App4\App4\bin\Debug\App4.xr.xml
+C:\WP8\App1\App4\App4\bin\Debug\App4.exe
+C:\WP8\App1\App4\App4\bin\Debug\App4.pdb
+C:\WP8\App1\App4\App4\bin\Debug\resources.pri
+C:\WP8\App1\App4\App4\bin\Debug\AppxManifest.xml
+C:\WP8\App1\App4\App4\bin\Debug\App4.build.appxrecipe
+C:\WP8\App1\App4\App4\obj\Debug\App.g.i.cs
+C:\WP8\App1\App4\App4\obj\Debug\App.g.cs
+C:\WP8\App1\App4\App4\obj\Debug\MainPage.g.i.cs
+C:\WP8\App1\App4\App4\obj\Debug\MainPage.g.cs
+C:\WP8\App1\App4\App4\obj\Debug\XamlTypeInfo.g.cs
+C:\WP8\App1\App4\App4\obj\Debug\App.xaml
+C:\WP8\App1\App4\App4\obj\Debug\App.xbf
+C:\WP8\App1\App4\App4\obj\Debug\XamlSaveStateFile.xml
+C:\WP8\App1\App4\App4\obj\Debug\MainPage.xaml
+C:\WP8\App1\App4\App4\obj\Debug\MainPage.xbf
+C:\WP8\App1\App4\App4\obj\Debug\App4.exe
+C:\WP8\App1\App4\App4\obj\Debug\App4.pdb
+C:\WP8\App1\App4\App4\obj\Debug\priconfig.xml
+C:\WP8\App1\App4\App4\obj\Debug\priconfig.xml.intermediate
+C:\WP8\App1\App4\App4\obj\Debug\layout.resfiles
+C:\WP8\App1\App4\App4\obj\Debug\layout.resfiles.intermediate
+C:\WP8\App1\App4\App4\obj\Debug\resources.resfiles
+C:\WP8\App1\App4\App4\obj\Debug\resources.resfiles.intermediate
+C:\WP8\App1\App4\App4\obj\Debug\pri.resfiles
+C:\WP8\App1\App4\App4\obj\Debug\pri.resfiles.intermediate
+C:\WP8\App1\App4\App4\obj\Debug\qualifiers.txt
+C:\WP8\App1\App4\App4\obj\Debug\qualifiers.txt.intermediate
+C:\WP8\App1\App4\App4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\WP8\App1\App4\App4\obj\Debug\ProjectArchitectures.txt
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\App.xbf
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\MainPage.xbf
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\App4.xr.xml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\App4.exe
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\App4.pdb
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\resources.pri
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\AppxManifest.xml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\App4.build.appxrecipe
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\App.g.i.cs
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\App.g.cs
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\MainPage.g.i.cs
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\MainPage.g.cs
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\App.xaml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\MainPage.xaml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\App.xbf
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\MainPage.xbf
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\App4.exe
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\App4.pdb
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\priconfig.xml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\priconfig.xml.intermediate
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\layout.resfiles
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\layout.resfiles.intermediate
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\resources.resfiles
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\resources.resfiles.intermediate
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\pri.resfiles
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\pri.resfiles.intermediate
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\qualifiers.txt
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\ProjectArchitectures.txt
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\App4.csproj.GenerateResource.Cache
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\App4.exe.config
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Anis Derbel\Documents\Visual Studio 2013\Projects\App4\App4\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
